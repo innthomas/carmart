@@ -1,0 +1,16 @@
+Frontend Devs. here is your task
+Using bootstrap, create a 
+gallery page for either dogs, cars, books, bags, or anything that you love.
+Your gallery should have 
+an image,  
+a name, and 
+a price for each item.
+Note: you are to create an array of objects for 
+12 items and use either a 
+foreach or a for loop to display them on your page. Whatever is displayed on your page should come from your array.
+Ensure your page is responsive. Also, create a 
+hero page or landing page for whatever you have in mind to put on your gallery. So you should have a landing page and a gallery page.
+It's should also be beautiful. Limit your use of CSS and use more bootstrap classes
+Submission link: https://airtable.com/shrfipyla7mtXFZrH
+Submission Deadline: Monday 11th October 2021 at 11: 59 PM
+Late submission equals mark deduction 
