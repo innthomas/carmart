@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=ZCOOL+KuaiLe&display=swap');
+
 
 img{
     height:20em;
@@ -5,13 +7,20 @@ img{
 
 }
 
-.col::hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  }
 
   .garage-container{
       margin-top:2em;
       margin-bottom:2em;
       padding: auto;
 
+  }
+
+  h5,h6{
+    font-family: 'ZCOOL KuaiLe', cursive;  
+  }
+
+  .col:hover{
+     color: rgb(23, 70, 1);
+     transform: scale(1.01);
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
   }
