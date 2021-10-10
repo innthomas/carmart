@@ -1,8 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=ZCOOL+KuaiLe&display=swap');
 
 
 body{
     background-image: url('assets/img/index.jpg');
-    background-repeat: no-repeat;
+    background-repeat:repeat-y;
     background-attachment: fixed;
     background-size: 100% 100%;
+}
+
+.hero-title{
+    font-weight: 500;
+    padding-left: 2em;
+    font-family:  'Lobster', cursive;
+}
+
+.hero-title > span{
+    font-weight: 900;
+   
+    
+}
+.hero-content{
+    padding-left: 1.5em;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size:1.5em;
+    
 }
